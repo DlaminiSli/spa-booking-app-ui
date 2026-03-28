@@ -37,7 +37,8 @@ The goal is to:
 ---
 
 ## Figma Design
-https://www.figma.com/proto/nKyXZcYeGOI0PKbhjwoSgj/BrightSpa?t=4bp69sScSKokGmVP-1 
+https://www.figma.com/proto/nKyXZcYeGOI0PKbhjwoSgj/BrightSpa?node-id=0-1&t=4bp69sScSKokGmVP-1 
+
 ---
 
 ## Screenshots
